@@ -14,10 +14,10 @@
         <img src="assets/img/portada.jpg" alt="">
     </div>
     <div class="conteiner">
-        <button onclick="insertarSkin();" >Insertar Skin's</button>
-        <button onclick="insertarStiker();">Insertar stiker's</button>
+        <button onclick="insertarSkin();" >Insertar Skins</button>
+        <button onclick="insertarStiker();">Insertar Stickers</button>
         <button onclick="insertarAgente();" >Insertar Agentes</button>
-        <button onclick="insertarCajas();" >Insertar cajas</button>
+        <button onclick="insertarCajas();" >Insertar Cajas</button>
     </div>
     <!--Seccion más informacion-->
     <div class="conteiner">
